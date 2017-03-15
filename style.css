@@ -1,0 +1,26 @@
+#errorid, #resultid {
+    display: none;
+}
+
+h1{
+	color: #0a4bb2;
+}
+h1:after
+{
+    content:' ';
+    display:block;
+    border:2px solid #07337a;
+}
+#styId{
+	margin:10px;
+    padding:10px;
+	border-style: solid;
+	border-color:#07337a;
+	width: 400px;
+	left: 40%;
+    position: absolute;
+    top: 10%;
+}
+
+
+	
